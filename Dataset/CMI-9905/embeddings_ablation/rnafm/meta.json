@@ -1,0 +1,14 @@
+{
+  "tag": "rnafm",
+  "model_id": "multimolecule/rnafm",
+  "pool": "mean",
+  "batch_size": 512,
+  "mi_shape": [
+    962,
+    640
+  ],
+  "ci_shape": [
+    2346,
+    640
+  ]
+}

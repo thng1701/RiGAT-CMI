@@ -1,0 +1,14 @@
+{
+  "tag": "rnabert",
+  "model_id": "multimolecule/rnabert",
+  "pool": "mean",
+  "batch_size": 512,
+  "mi_shape": [
+    962,
+    120
+  ],
+  "ci_shape": [
+    2346,
+    120
+  ]
+}

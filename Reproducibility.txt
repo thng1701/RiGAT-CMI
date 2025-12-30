@@ -1,0 +1,2 @@
+1. Run Embedding-data.ipynb
+2. Run GAT-Train.npynb
